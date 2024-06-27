@@ -1,0 +1,1 @@
+# shop-app-django-yyoosshh
